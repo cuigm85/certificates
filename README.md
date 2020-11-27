@@ -12,7 +12,7 @@
 ### ***[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Course 1 of 4 in the DeepLearning.AI TensorFlow Developer Specialization)](https://www.coursera.org/account/accomplishments/certificate/LPP435GWXUSM)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/tensorflow-in-practice/introduction-tensorflow/Coursera%20LPP435GWXUSM.png?raw=true)
 
-## ***[Cloud Engineering with Google Cloud Professional Certificate (1/6) - Google Cloud Platform]()***
+## ***[Cloud Engineering with Google Cloud Professional Certificate (1/6) - Cloud Computing]()***
 ### ***[Google Cloud Platform Fundamentals: Core Infrastructure (Course 1 of 6 in the Cloud Engineering with Google Cloud Specialization)](https://www.coursera.org/account/accomplishments/certificate/ZE5JJW6ZY29S)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/cloud-engineering-gcp/gcp-fundamentals/Coursera%20ZE5JJW6ZY29S.png?raw=true)
 
