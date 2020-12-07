@@ -1,4 +1,15 @@
-# ***Part I: Coursera Courses***
+# ***Programming***
+
+### ***[Functional Programming Principles in Scala (Course 1 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/YGN299EKYTJG)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20YGN299EKYTJG.png?raw=true)
+### ***[Functional Program Design in Scala (Course 2 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/HBD7RPV4K97B)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20HBD7RPV4K97B.png?raw=true)
+
+## ***[Programming with Google Go Specialization (3/3) - Software Development](https://www.coursera.org/account/accomplishments/specialization/certificate/MJ5NDAAX3RN6)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/google-golang/Coursera%20MJ5NDAAX3RN6.png?raw=true)
+
+## ***[Python for Everybody Specialization (5/5) - Software Development & Data Science](https://www.coursera.org/account/accomplishments/specialization/WLBA4XL6PSY4)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%20WLBA4XL6PSY4.png?raw=true)
 
 ## ***[Agile with Atlassian Jira - Project Management](https://www.coursera.org/account/accomplishments/certificate/4Q8BQ75AEW7V)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/agile-atlassian-jira/Coursera%204Q8BQ75AEW7V.png?raw=true)
@@ -24,14 +35,7 @@
 ### ***[Functional Program Design in Scala (Course 2 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/HBD7RPV4K97B)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20HBD7RPV4K97B.png?raw=true)
 
-## ***[Programming with Google Go Specialization (3/3) - Software Development](https://www.coursera.org/account/accomplishments/specialization/certificate/MJ5NDAAX3RN6)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/google-golang/Coursera%20MJ5NDAAX3RN6.png?raw=true)
-### ***[Getting Started with Go (Course 1 of 3 in the Programming with Google Go Specialization)](https://www.coursera.org/account/accomplishments/certificate/GYMT996TY5EJ)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/google-golang/Coursera%20GYMT996TY5EJ.png?raw=true)
-### ***[Functions, Methods, and Interfaces in Go (Course 2 of 3 in the Programming with Google Go Specialization)](https://www.coursera.org/account/accomplishments/certificate/ZVUD89ZH82BQ)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/google-golang/Coursera%20ZVUD89ZH82BQ.png?raw=true)
-### ***[Concurrency in Go (Course 3 of 3 in the Programming with Google Go Specialization)](https://www.coursera.org/account/accomplishments/certificate/N93PVRMBS7KR)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/google-golang/Coursera%20N93PVRMBS7KR.png?raw=true)
+
 
 ## ***[AWS Fundamentals Specialization (4/4) - Cloud Computing](https://www.coursera.org/account/accomplishments/specialization/certificate/PAXVWVYCUGPN)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/aws-fundamentals/Coursera%20PAXVWVYCUGPN.png?raw=true)
@@ -59,19 +63,6 @@
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/iot/Coursera%202ZL8J8632WU7.png?raw=true)
 ### ***[The Raspberry Pi Platform and Python Programming for the Raspberry Pi (Course 4 of 6 in the An Introduction to Programming the Internet of Things (IOT) Specialization)](https://www.coursera.org/account/accomplishments/certificate/LCHXM4KZHULW)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/iot/Coursera%20LCHXM4KZHULW.png?raw=true)
-
-## ***[Python for Everybody Specialization (5/5) - Software Development & Data Science](https://www.coursera.org/account/accomplishments/specialization/WLBA4XL6PSY4)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%20WLBA4XL6PSY4.png?raw=true)
-### ***[Programming for Everybody (Getting Started with Python) (Course 1 of 5 in the Python for Everybody Specialization)](https://www.coursera.org/account/accomplishments/certificate/4J7ZZF4NN4ZV)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%204J7ZZF4NN4ZV.png?raw=true)
-### ***[Python Data Structures (Course 2 of 5 in the Python for Everybody Specialization)](https://www.coursera.org/account/accomplishments/certificate/6DST2ZTLMN7A)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%206DST2ZTLMN7A.png?raw=true)
-### ***[Using Python to Access Web Data (Course 3 of 5 in the Python for Everybody Specialization)](https://www.coursera.org/account/accomplishments/certificate/73Z9GP3UPLPP)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%2073Z9GP3UPLPP.png?raw=true)
-### ***[Using Databases with Python (Course 4 of 5 in the Python for Everybody Specialization)](https://www.coursera.org/account/accomplishments/certificate/G7V99J8TW9ZR)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%20G7V99J8TW9ZR.png?raw=true)
-### ***[Capstone: Retrieving, Processing, and Visualizing Data with Python (Course 5 of 5 in the Python for Everybody Specialization)](https://www.coursera.org/account/accomplishments/certificate/3G4P5QU5RPUQ)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%203G4P5QU5RPUQ.png?raw=true)
 
 ## ***[AI For Everyone - AI terminology](https://www.coursera.org/account/accomplishments/certificate/KMNDV743D6M3)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/ai-for-everyone/Coursera%20KMNDV743D6M3.png?raw=true)
