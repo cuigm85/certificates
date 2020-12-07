@@ -11,7 +11,7 @@
 ## ***[Python for Everybody Specialization (5/5)](https://www.coursera.org/account/accomplishments/specialization/WLBA4XL6PSY4)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%20WLBA4XL6PSY4.png?raw=true)
 
-
+---
 # ***Machine Learning***
 
 ## ***[Machine Learning](https://www.coursera.org/account/accomplishments/certificate/T3H8R56M3DXE)***
@@ -23,7 +23,7 @@
 ## ***[Introduction to Data Science in Python (Course 1 of 5 in the Applied Data Science with Python Specialization)](https://www.coursera.org/account/accomplishments/certificate/YYJEHURVMF2B)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/data-science-python/Coursera%20YYJEHURVMF2B.png?raw=true)
 
-
+---
 # ***Cloud Computing***
 
 ## ***[AWS Fundamentals Specialization (4/4)](https://www.coursera.org/account/accomplishments/specialization/certificate/PAXVWVYCUGPN)***
@@ -32,19 +32,19 @@
 ## ***[Google Cloud Platform Fundamentals: Core Infrastructure (Course 1 of 6 in the Cloud Engineering with Google Cloud Specialization)](https://www.coursera.org/account/accomplishments/certificate/ZE5JJW6ZY29S)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/cloud-engineering-gcp/gcp-fundamentals/Coursera%20ZE5JJW6ZY29S.png?raw=true)
 
-
+---
 # ***Big Data***
 
 ## ***[Hadoop Platform and Application Framework](https://www.coursera.org/account/accomplishments/certificate/FV7E5W9XHEAD)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/hadoop/Coursera%20FV7E5W9XHEAD.png?raw=true)
 
-
+---
 # ***Project Management***
 
 ## ***[Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/certificate/4Q8BQ75AEW7V)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/agile-atlassian-jira/Coursera%204Q8BQ75AEW7V.png?raw=true)
 
-
+---
 # ***Others***
 
 ## ***[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/NRTCSTG4W24R)***
