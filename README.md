@@ -42,13 +42,7 @@
 
 ## ***[Cloud Engineering with Google Cloud Professional Certificate (1/6) - Cloud Computing]()***
 
-# ***Part III: Coursera Specializations***
 
-## ***[Functional Programming in Scala Specialization (2/5) - Software Development]()***
-### ***[Functional Programming Principles in Scala (Course 1 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/YGN299EKYTJG)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20YGN299EKYTJG.png?raw=true)
-### ***[Functional Program Design in Scala (Course 2 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/HBD7RPV4K97B)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20HBD7RPV4K97B.png?raw=true)
 
 
 # ***Part IV: Other Coursera Courses & Specializations***
