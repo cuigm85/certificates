@@ -1,8 +1,8 @@
 # ***Programming***
 
-### ***[Functional Programming Principles in Scala (Course 1 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/YGN299EKYTJG)***
+## ***[Functional Programming Principles in Scala (Course 1 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/YGN299EKYTJG)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20YGN299EKYTJG.png?raw=true)
-### ***[Functional Program Design in Scala (Course 2 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/HBD7RPV4K97B)***
+## ***[Functional Program Design in Scala (Course 2 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/HBD7RPV4K97B)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20HBD7RPV4K97B.png?raw=true)
 
 ## ***[Programming with Google Go Specialization (3/3) - Software Development](https://www.coursera.org/account/accomplishments/specialization/certificate/MJ5NDAAX3RN6)***
@@ -17,15 +17,30 @@
 ## ***[Hadoop Platform and Application Framework - Big Data](https://www.coursera.org/account/accomplishments/certificate/FV7E5W9XHEAD)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/hadoop/Coursera%20FV7E5W9XHEAD.png?raw=true)
 
-# ***Part II: Coursera Professional Certificate***
+# ***Machine Learning***
 
-## ***[DeepLearning.AI TensorFlow Developer Professional Certificate (1/4) - Machine Learning]()***
-### ***[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Course 1 of 4 in the DeepLearning.AI TensorFlow Developer Specialization)](https://www.coursera.org/account/accomplishments/certificate/LPP435GWXUSM)***
+## ***[Machine Learning](https://www.coursera.org/account/accomplishments/certificate/T3H8R56M3DXE)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/machine-learning/Coursera%20T3H8R56M3DXE.png?raw=true)
+
+## ***[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Course 1 of 4 in the DeepLearning.AI TensorFlow Developer Specialization)](https://www.coursera.org/account/accomplishments/certificate/LPP435GWXUSM)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/tensorflow-in-practice/introduction-tensorflow/Coursera%20LPP435GWXUSM.png?raw=true)
 
-## ***[Cloud Engineering with Google Cloud Professional Certificate (1/6) - Cloud Computing]()***
-### ***[Google Cloud Platform Fundamentals: Core Infrastructure (Course 1 of 6 in the Cloud Engineering with Google Cloud Specialization)](https://www.coursera.org/account/accomplishments/certificate/ZE5JJW6ZY29S)***
+## ***[Introduction to Data Science in Python (Course 1 of 5 in the Applied Data Science with Python Specialization)](https://www.coursera.org/account/accomplishments/certificate/YYJEHURVMF2B)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/data-science-python/Coursera%20YYJEHURVMF2B.png?raw=true)
+
+# ***Cloud Computing***
+
+## ***[AWS Fundamentals Specialization (4/4) - Cloud Computing](https://www.coursera.org/account/accomplishments/specialization/certificate/PAXVWVYCUGPN)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/aws-fundamentals/Coursera%20PAXVWVYCUGPN.png?raw=true)
+
+## ***[Google Cloud Platform Fundamentals: Core Infrastructure (Course 1 of 6 in the Cloud Engineering with Google Cloud Specialization)](https://www.coursera.org/account/accomplishments/certificate/ZE5JJW6ZY29S)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/cloud-engineering-gcp/gcp-fundamentals/Coursera%20ZE5JJW6ZY29S.png?raw=true)
+
+
+
+# ***Machine Learning***
+
+## ***[Cloud Engineering with Google Cloud Professional Certificate (1/6) - Cloud Computing]()***
 
 # ***Part III: Coursera Specializations***
 
@@ -35,22 +50,6 @@
 ### ***[Functional Program Design in Scala (Course 2 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/HBD7RPV4K97B)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20HBD7RPV4K97B.png?raw=true)
 
-
-
-## ***[AWS Fundamentals Specialization (4/4) - Cloud Computing](https://www.coursera.org/account/accomplishments/specialization/certificate/PAXVWVYCUGPN)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/aws-fundamentals/Coursera%20PAXVWVYCUGPN.png?raw=true)
-### ***[AWS Fundamentals: Going Cloud-Native (Course 1 of 4 in the AWS Fundamentals Specialization)](https://www.coursera.org/account/accomplishments/certificate/97SZQGRTD747)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/aws-fundamentals/Coursera%2097SZQGRTD747.png?raw=true)
-### ***[AWS Fundamentals: Addressing Security Risk (Course 2 of 4 in the AWS Fundamentals Specialization)](https://www.coursera.org/account/accomplishments/certificate/ZQSKXBXS9HED)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/aws-fundamentals/Coursera%20ZQSKXBXS9HED.png?raw=true)
-### ***[AWS Fundamentals: Migrating to the Cloud (Course 3 of 4 in the AWS Fundamentals Specialization)](https://www.coursera.org/account/accomplishments/certificate/MF8QLS8SAUZ6)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/aws-fundamentals/Coursera%20MF8QLS8SAUZ6.png?raw=true)
-### ***[AWS Fundamentals: Building Serverless Applications (Course 4 of 4 in the AWS Fundamentals Specialization)](https://www.coursera.org/account/accomplishments/certificate/N3445JZR72V2)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/aws-fundamentals/Coursera%20N3445JZR72V2.png?raw=true)
-
-## ***[Applied Data Science with Python Specialization (1/5) - Data Science]()***
-### ***[Introduction to Data Science in Python (Course 1 of 5 in the Applied Data Science with Python Specialization)](https://www.coursera.org/account/accomplishments/certificate/YYJEHURVMF2B)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/data-science-python/Coursera%20YYJEHURVMF2B.png?raw=true)
 
 # ***Part IV: Other Coursera Courses & Specializations***
 
