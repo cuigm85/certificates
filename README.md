@@ -45,7 +45,7 @@
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/agile-atlassian-jira/Coursera%204Q8BQ75AEW7V.png?raw=true)
 
 
-# ***Part IV: Other Coursera Courses & Specializations***
+# ***Others***
 
 ## ***[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/NRTCSTG4W24R)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/learning-how-to-learn/Coursera%20NRTCSTG4W24R.png?raw=true)
@@ -55,5 +55,5 @@
 ## ***[The Raspberry Pi Platform and Python Programming for the Raspberry Pi (Course 4 of 6 in the An Introduction to Programming the Internet of Things (IOT) Specialization)](https://www.coursera.org/account/accomplishments/certificate/LCHXM4KZHULW)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/iot/Coursera%20LCHXM4KZHULW.png?raw=true)
 
-## ***[AI For Everyone - AI terminology](https://www.coursera.org/account/accomplishments/certificate/KMNDV743D6M3)***
+## ***[AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/KMNDV743D6M3)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/ai-for-everyone/Coursera%20KMNDV743D6M3.png?raw=true)
