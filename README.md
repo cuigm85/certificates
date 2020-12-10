@@ -23,6 +23,9 @@
 ## ***[Natural Language Processing in TensorFlow (Course 3 of 4 in the DeepLearning.AI TensorFlow Developer Specialization)](https://www.coursera.org/account/accomplishments/certificate/WS3CYAVMMUPE)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/tensorflow-in-practice/introduction-tensorflow/Coursera%20WS3CYAVMMUPE.png?raw=true)
 
+## ***[Sequences, Time Series and Prediction (Course 4 of 4 in the DeepLearning.AI TensorFlow Developer Specialization)](https://www.coursera.org/account/accomplishments/certificate/HG9MXUPYF8X4)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/tensorflow-in-practice/introduction-tensorflow/Coursera%20HG9MXUPYF8X4.png?raw=true)
+
 ## ***[Introduction to Data Science in Python (Course 1 of 5 in the Applied Data Science with Python Specialization)](https://www.coursera.org/account/accomplishments/certificate/YYJEHURVMF2B)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/data-science-python/Coursera%20YYJEHURVMF2B.png?raw=true)
 
