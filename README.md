@@ -17,14 +17,8 @@
 ## ***[Machine Learning](https://www.coursera.org/account/accomplishments/certificate/T3H8R56M3DXE)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/machine-learning/Coursera%20T3H8R56M3DXE.png?raw=true)
 
-## ***[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Course 1 of 4 in the DeepLearning.AI TensorFlow Developer Specialization)](https://www.coursera.org/account/accomplishments/certificate/LPP435GWXUSM)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/tensorflow-in-practice/introduction-tensorflow/Coursera%20LPP435GWXUSM.png?raw=true)
-
-## ***[Natural Language Processing in TensorFlow (Course 3 of 4 in the DeepLearning.AI TensorFlow Developer Specialization)](https://www.coursera.org/account/accomplishments/certificate/WS3CYAVMMUPE)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/tensorflow-in-practice/introduction-tensorflow/Coursera%20WS3CYAVMMUPE.png?raw=true)
-
-## ***[Sequences, Time Series and Prediction (Course 4 of 4 in the DeepLearning.AI TensorFlow Developer Specialization)](https://www.coursera.org/account/accomplishments/certificate/HG9MXUPYF8X4)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/tensorflow-in-practice/introduction-tensorflow/Coursera%20HG9MXUPYF8X4.png?raw=true)
+## ***[DeepLearning.AI TensorFlow Developer Specialization (4/4)](https://www.coursera.org/account/accomplishments/specialization/certificate/BXPSVTJM2M69)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/tensorflow-in-practice/introduction-tensorflow/Coursera%20BXPSVTJM2M69.png?raw=true)
 
 ## ***[Introduction to Data Science in Python (Course 1 of 5 in the Applied Data Science with Python Specialization)](https://www.coursera.org/account/accomplishments/certificate/YYJEHURVMF2B)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/data-science-python/Coursera%20YYJEHURVMF2B.png?raw=true)
