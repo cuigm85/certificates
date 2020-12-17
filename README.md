@@ -26,6 +26,9 @@
 ---
 # ***Cloud Computing***
 
+## ***[Certified Kubernetes Administrator (CKA) with Practice Tests)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-91aba60b-4659-42b0-aa0b-987c1bafbebf.pdf)***
+![](https://github.com/cuigm85/certificates/blob/png/udemy/certified-kubernetes-administrator-with-practice-tests/UC-91aba60b-4659-42b0-aa0b-987c1bafbebf.jpg?raw=true)
+
 ## ***[AWS Fundamentals Specialization (4/4)](https://www.coursera.org/account/accomplishments/specialization/certificate/PAXVWVYCUGPN)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/aws-fundamentals/Coursera%20PAXVWVYCUGPN.png?raw=true)
 
