@@ -1,18 +1,7 @@
-# ***Programming***
-
-## ***[Functional Programming Principles in Scala (Course 1 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/YGN299EKYTJG)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20YGN299EKYTJG.png?raw=true)
-## ***[Functional Program Design in Scala (Course 2 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/HBD7RPV4K97B)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20HBD7RPV4K97B.png?raw=true)
-
-## ***[Programming with Google Go Specialization (3/3)](https://www.coursera.org/account/accomplishments/specialization/certificate/MJ5NDAAX3RN6)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/google-golang/Coursera%20MJ5NDAAX3RN6.png?raw=true)
-
-## ***[Python for Everybody Specialization (5/5)](https://www.coursera.org/account/accomplishments/specialization/WLBA4XL6PSY4)***
-![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%20WLBA4XL6PSY4.png?raw=true)
-
----
 # ***Machine Learning***
+
+## ***[TensorFlow Developer Certificate](https://www.credential.net/3f2a2e22-e2f8-4c7c-8310-8da69d4f7c69)***
+![](https://github.com/cuigm85/certificates/blob/png/certification/xbzhi6ly_1643343087413.png?raw=true)
 
 ## ***[Machine Learning](https://www.coursera.org/account/accomplishments/certificate/T3H8R56M3DXE)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/courses/machine-learning/Coursera%20T3H8R56M3DXE.png?raw=true)
@@ -34,6 +23,20 @@
 
 ## ***[Google Cloud Platform Fundamentals: Core Infrastructure (Course 1 of 6 in the Cloud Engineering with Google Cloud Specialization)](https://www.coursera.org/account/accomplishments/certificate/ZE5JJW6ZY29S)***
 ![](https://github.com/cuigm85/certificates/blob/png/coursera/professional-certificates/cloud-engineering-gcp/gcp-fundamentals/Coursera%20ZE5JJW6ZY29S.png?raw=true)
+
+---
+# ***Programming***
+
+## ***[Functional Programming Principles in Scala (Course 1 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/YGN299EKYTJG)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20YGN299EKYTJG.png?raw=true)
+## ***[Functional Program Design in Scala (Course 2 of 5 in the Functional Programming in Scala Specialization)](https://www.coursera.org/account/accomplishments/certificate/HBD7RPV4K97B)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/scala/Coursera%20HBD7RPV4K97B.png?raw=true)
+
+## ***[Programming with Google Go Specialization (3/3)](https://www.coursera.org/account/accomplishments/specialization/certificate/MJ5NDAAX3RN6)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/google-golang/Coursera%20MJ5NDAAX3RN6.png?raw=true)
+
+## ***[Python for Everybody Specialization (5/5)](https://www.coursera.org/account/accomplishments/specialization/WLBA4XL6PSY4)***
+![](https://github.com/cuigm85/certificates/blob/png/coursera/specializations/python/Coursera%20WLBA4XL6PSY4.png?raw=true)
 
 ---
 # ***Big Data***
